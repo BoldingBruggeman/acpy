@@ -1,1 +1,1 @@
-acpy has been renamed to [parsac](/BoldingBruggeman/parsac)
+acpy has been renamed to [parsac](https://github.com/BoldingBruggeman/parsac)
